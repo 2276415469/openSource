@@ -6,6 +6,7 @@
 
 # 项目中包含：
 严格的pom引用|mysql|eureka|feign|canal|apollo|kafka|redis|RocketMQ|多数据源|jpa|es|k8s
+重要版本申明：java-8 springboot-2.1.0 springcloud-Finchley.SR2 mysql-8.4.5
 
 # 项目结构：
 api------------------你的接口暴露、编排
