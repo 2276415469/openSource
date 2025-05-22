@@ -5,7 +5,7 @@
 希望这个项目可以帮助大家快速把理论落地，程序员需要的就是快和实践，如果可以帮助到你我会很开心的。
 
 # 项目中包含：
-严格的pom引用|mysql|eureka|feign|canal|apollo|kafka|redis|RocketMQ|多数据源|jpa|es|k8s
+严格的pom引用|mysql|eureka|feign|canal|apollo|kafka|redis|RocketMQ|多数据源|jpa|es|k8s|Xxljob|Zookeeper|Dubbo|Mqtt|sqlparse|starter|Sentinel|Skywalking|Nacos|Shardingsphere|seata
 重要版本申明：java-8 springboot-2.1.0 springcloud-Finchley.SR2 mysql-8.4.5
 
 # 项目结构：
@@ -16,7 +16,10 @@ shard----------------模块共享工具类
 third----------------公司内部服务、第三方服务等
 
 # 项目所需组件下载安装流程
-参考 13合1项目说明
+参考 项目集成说明
 
 # 交流邮箱
 如果下载项目以后，无法使用，或者文档中链接不可用，或者觉得缺少一些部分需要补充的，或者你的一些个人想法，都可以发送到这个邮箱中2276415469@qq.com
+
+# 使用方法
+鉴于本项目集成组件众多，不推荐大家直接启动原项目，应该新建项目然后根据文档把自己需要的部分拿过去进行使用，这样既简单又便捷。
