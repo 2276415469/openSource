@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "mqtt",
+      "type": "com.ning.mqtt.MqttConfig",
+      "sourceType": "com.ning.mqtt.MqttConfig"
+    }
+  ],
+  "properties": [
+    {
+      "name": "mqtt.client-id",
+      "type": "java.lang.String",
+      "sourceType": "com.ning.mqtt.MqttConfig"
+    },
+    {
+      "name": "mqtt.host",
+      "type": "java.lang.String",
+      "sourceType": "com.ning.mqtt.MqttConfig"
+    },
+    {
+      "name": "mqtt.keepalive",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ning.mqtt.MqttConfig"
+    },
+    {
+      "name": "mqtt.password",
+      "type": "java.lang.String",
+      "sourceType": "com.ning.mqtt.MqttConfig"
+    },
+    {
+      "name": "mqtt.timeout",
+      "type": "java.lang.Integer",
+      "sourceType": "com.ning.mqtt.MqttConfig"
+    },
+    {
+      "name": "mqtt.topic",
+      "type": "java.lang.String",
+      "sourceType": "com.ning.mqtt.MqttConfig"
+    },
+    {
+      "name": "mqtt.username",
+      "type": "java.lang.String",
+      "sourceType": "com.ning.mqtt.MqttConfig"
+    }
+  ],
+  "hints": []
+}
